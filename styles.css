@@ -1,0 +1,12 @@
+#root {
+	width: 100px;
+	height: 100px;
+	transition: all 0.3s ease-in-out;
+}
+
+#root:hover {
+	width: 120px;
+	height: 120px;
+	transform: rotate(30deg);
+	transition: all 0.3s ease-in-out;
+}
